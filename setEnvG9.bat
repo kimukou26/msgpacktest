@@ -17,4 +17,3 @@ set PATH=%GRIFFON_HOME%/bin;%GRAILS_HOME%/bin;%JAVA_HOME%/bin
 set PATH=%PATH%;%GRADLE_HOME%/bin
 set PATH=%PATH%;%GROOVY_HOME%/bin
 set PATH=%PATH%;%GIT_HOME%/bin;%MVN_HOME%/bin;%ANT_HOME%/bin
-
