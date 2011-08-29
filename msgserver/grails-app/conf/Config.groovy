@@ -88,3 +88,21 @@ log4j = {
 
     warn   'org.mortbay.log'
 }
+
+
+//msgpack setting
+msgpack{
+    rpc.expose = true
+    rpc.port = 1985
+}
+
+//mongodb setting
+grails {
+	mongo {
+		host = "localhost"
+		port = 27107
+		username = "jggug"
+		password = "jggugpass"
+		databaseName = "jggugdb"
+	}
+}

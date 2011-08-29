@@ -30,4 +30,3 @@ grails.project.dependency.resolution = {
         // runtime 'mysql:mysql-connector-java:5.1.13'
     }
 }
-grails.plugin.location.msgpack="../grails-msgpack"
